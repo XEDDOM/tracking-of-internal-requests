@@ -1,3 +1,8 @@
+# backend
 backend/venv
 backend/__pycache__
 backend/tickets.db
+
+#frontend
+frontend/node_modules
+frontend/package-lock.json
